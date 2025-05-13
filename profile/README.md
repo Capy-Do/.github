@@ -12,7 +12,7 @@ Queremos practicar cómo se trabaja en ambientes reales, usando herramientas com
 - Git y GitHub
 - Frontend y Backend por separado
 - Jira para la gestión del proyecto
-- Diagramas BPMN y documentación de usuario
+- Diagramas y documentación de usuario
 
 ---
 
