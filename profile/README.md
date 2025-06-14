@@ -1,22 +1,43 @@
-# Bienvenidos a **Capydo**
+<div align="center">
+  
+# — Bienvenidos —
 
-¡Hola! Somos **Carpinchos Programando**, un grupo de estudiantes de programación aprendiendo a trabajar en equipo construyendo aplicaciones.  
+</div>
 
----
+¡Hola! Somos **Carpinchos Programando**, un grupo de estudiantes de la **Tecnicatura en Programación en la Universidad Tecnológica Nacional (Argentina)**.  
 
-## ¿Qué hacemos?
-
-Actualmente estamos desarrollando **CapyDo**, una aplicación de organización de tareas con enfoque amigable, simple y útil para estudiantes y equipos pequeños.  
-Queremos practicar cómo se trabaja en ambientes reales, usando herramientas como:
-
-- Git y GitHub
-- Frontend y Backend por separado
-- Jira para la gestión del proyecto
-- Diagramas y documentación de usuario
+Hemos creado este espacio para **organizar, planificar y dar seguimiento** al desarrollo de nuestro proyecto **CapyDo**. Aquí gestionamos cada paso —**diseño, desarrollo, despliegue y más**— utilizando **repositorios, tableros y otras herramientas** que nos ayudaran a llevar el proyecto al siguiente nivel.  
 
 ---
 
-## Miembros del equipo
+ 
+## ✿ ¿Qué es CapyDo?
+
+
+
+CapyDo es una aplicación de **organización y gestión de proyectos**, **simple e intuitiva**.
+
+Queremos que sea ese espacio donde te sientas cómodo gestionando tus tareas, sin la complejidad abrumadora de las opciones empresariales que a menudo alejan a los usuarios.  
+
+<h2> ✿ Funcionalidades Clave </h2> 
+ <img align="right" width=350px src="https://github.com/user-attachments/assets/f47946c7-5dba-4988-b32f-510d0b3e11b7" />
+ 
+Aunque estamos en pleno desarrollo, estas son algunas de las funcionalidades que hacen de CapyDo una herramienta única:
+
+
+
+- **Interfaz limpia y amigable:** Diseñada para que la navegación sea intuitiva y la gestión de tareas, sin complicaciones.
+- **Creación y gestión de proyectos simplificada:** Podrás crear, editar y organizar tus proyectos con facilidad.
+- **Gestión de tareas personalizable:** Categoriza, asigna y da seguimiento a tus tareas de la manera que mejor te funcione.
+- **Personalización profunda:** Haz que tu espacio de trabajo refleje tu estilo y el espíritu de tu proyecto. Podrás personalizar colores, imágenes de fondo, etiquetas, e incluso añadir stickers para que cada vez que entres a la app, la inspiración te envuelva y te conectes al instante con tus objetivos. Queremos que te sientas en sintonía con tu proyecto.
+- **Vistas adaptables:** Visualiza tus proyectos de diferentes formas (por ejemplo, listas, tableros) para tener una perspectiva clara de tu progreso.
+- **Notificaciones personalizables:** Mantente al tanto de tus plazos y actualizaciones importantes.
+- **Guía Inteligente con IA:** Incorporaremos una inteligencia artificial que te guiará y ayudará activamente. Esta IA te proporcionará informes detallados sobre el progreso de tu proyecto, sugiriendo qué aspectos podrías mejorar, reorganizar o priorizar para optimizar tu trabajo y alcanzar tus metas de manera más eficiente.
+
+
+---
+
+## ✿ Miembros del equipo
 
 
 - **Aguilar, Melina**  
@@ -47,10 +68,23 @@ Queremos practicar cómo se trabaja en ambientes reales, usando herramientas com
 
 ---
 
-## Estado actual del proyecto
+## ✿ Estado actual del proyecto
 
-> 🔧 En desarrollo – Fase inicial de planificación y estructura
+✅ **Definición de Requisitos:** Completamos las historias de usuario y casos de uso para entender las necesidades de los usuarios.
+
+✅ **Diseño de Procesos (BPMN):** Modelamos los flujos de trabajo con Bizagi para optimizar las interacciones.
+
+✅ **Diseño de Arquitectura y Estructura:** Definimos cómo se organizarán los componentes y datos de la aplicación.
+
+> --> **Diseño de Interfaz y Experiencia (UI/UX):** Actualmente estamos diseñando la app en Figma para una experiencia intuitiva y visualmente atractiva.
+
+> **Modelado UML:** Será nuestro siguiente paso para detallar la estructura y el comportamiento del sistema.
+
+> **Desarrollo:** Comenzaremos a programar una vez finalizadas las fases de diseño.
 
 ---
+<div align="center">
+  
+### ✨ Gracias por visitar nuestro espacio ✨
 
-## ✨ Gracias por visitar nuestro espacio ✨
+</div>
