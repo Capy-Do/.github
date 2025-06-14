@@ -4,7 +4,7 @@
 
 </div>
 
-¡Hola! Somos **Carpinchos Programando**, un grupo de estudiantes de la **Tecnicatura en Programación en la Universidad Tecnológica Nacional (Argentina)**.  
+¡Hola! Somos **Carpinchos Programando**, un grupo de estudiantes de la **Tecnicatura en Programación en la Universidad Tecnológica Nacional, San Rafael, Argentina**.  
 
 Hemos creado este espacio para **organizar, planificar y dar seguimiento** al desarrollo de nuestro proyecto **CapyDo**. Aquí gestionamos cada paso —**diseño, desarrollo, despliegue y más**— utilizando **repositorios, tableros y otras herramientas** que nos ayudaran a llevar el proyecto al siguiente nivel.  
 
