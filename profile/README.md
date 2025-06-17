@@ -87,6 +87,6 @@ Aunque estamos en pleno desarrollo, estas son algunas de las funcionalidades que
 ---
 <div align="center">
   
-### ✨ Gracias por visitar nuestro espacio ✨
+### ✨ Gracias por visitarnos ✨
 
 </div>
