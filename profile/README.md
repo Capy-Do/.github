@@ -78,11 +78,11 @@ Aunque estamos en pleno desarrollo, estas son algunas de las funcionalidades que
 
 ✅ **Diseño de Arquitectura y Estructura:** Definimos cómo se organizarán los componentes y datos de la aplicación.
 
-> `🚧 En progreso` **Diseño de Interfaz y Experiencia (UI/UX):** Actualmente estamos diseñando la app en Figma para una experiencia intuitiva y visualmente atractiva.
+✅ **Diseño de Interfaz y Experiencia (UI/UX):** Actualmente estamos diseñando la app en Figma para una experiencia intuitiva y visualmente atractiva.
 
 > **Modelado UML:** Será nuestro siguiente paso para detallar la estructura y el comportamiento del sistema.
 
-> **Desarrollo:** Comenzaremos a programar una vez finalizadas las fases de diseño.
+> `🚧 En progreso` **Desarrollo:** Comenzaremos a programar una vez finalizadas las fases de diseño.
 
 ---
 <div align="center">
